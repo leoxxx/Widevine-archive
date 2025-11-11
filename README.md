@@ -1,5 +1,5 @@
 # Widevine archive
-Widevine-4.10.2391.0
+**Widevine-4.10.2391.0**
 
 Mac-arm64
 URL: https://web.archive.org/web/20250718125047/https://dl.google.com/widevine-cdm/4.10.2391.0-mac-arm64.zip<br>
