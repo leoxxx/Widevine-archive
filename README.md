@@ -1,7 +1,7 @@
 # Widevine archive
 **Widevine-4.10.2391.0**
 
-Mac-arm64
+**Mac-arm64**<br>
 URL: https://web.archive.org/web/20250718125047/https://dl.google.com/widevine-cdm/4.10.2391.0-mac-arm64.zip<br>
 SIZE: 6511203<br>
 SHA512: 041a9bbe89160f604d72db92fc9c1fdce75d528706245c837d4d0ea71e96c1b5106e512ca37e075373ceaeda64e6dd42e02889edaee8dc3077718620a16b4f2e
